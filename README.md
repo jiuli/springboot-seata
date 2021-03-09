@@ -1,3 +1,5 @@
+参考：https://gitee.com/yanhaizhe_admin/Springboot-Notebook
+
 # springboot-seata
 ### 概览
 ##### 1.整合seata的demo,此demo都配置好了，拉下来按照步骤，直接可以跑起来观察效果。
